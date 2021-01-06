@@ -1,0 +1,9 @@
+,Model,max_depth,Feature Variables,Explained Variance Score,MAE,MSE,R2_score
+RandomForest: max_depth=5.00,RandomForest,5,"['Mean_price_paid', 'Year', 'X', 'Y']",0.536925647246653,353.1439375874967,246882.40341125597,0.5368429928227514
+RandomForest: max_depth=10.00,RandomForest,10,"['Mean_price_paid', 'Year', 'X', 'Y']",0.7429265548576252,261.4866838237224,137151.22800770466,0.7427011750654531
+RandomForest: max_depth=15.00,RandomForest,15,"['Mean_price_paid', 'Year', 'X', 'Y']",0.8118369630508746,216.912730191104,100401.54486776782,0.8116444169596598
+RandomForest: max_depth=20.00,RandomForest,20,"['Mean_price_paid', 'Year', 'X', 'Y']",0.8220974366318333,207.47575647051877,94923.13904125798,0.8219220309639352
+RandomForest: max_depth=25.00,RandomForest,25,"['Mean_price_paid', 'Year', 'X', 'Y']",0.8226213748640517,206.39266735192024,94642.771986593,0.8224480059388849
+RandomForest: max_depth=30.00,RandomForest,30,"['Mean_price_paid', 'Year', 'X', 'Y']",0.8224661298721103,206.59457276895301,94727.81939315407,0.8222884550687266
+RandomForest: max_depth=35.00,RandomForest,35,"['Mean_price_paid', 'Year', 'X', 'Y']",0.8228696564098495,206.3873776733604,94515.55435378432,0.8226866691131642
+RandomForest: max_depth=40.00,RandomForest,40,"['Mean_price_paid', 'Year', 'X', 'Y']",0.8227429228435632,206.4297497721801,94583.5849508692,0.82255904216484

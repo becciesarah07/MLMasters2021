@@ -1,0 +1,2 @@
+,Model,max_depth,Model_Region,Feature Variables,Explained Variance Score,MAE,MSE,R2_score
+"RandomForest: max_depth=25, 'Mean_price_paid','Year', 'X', 'Y', 'UK'",RandomForest,25,UK,"'Mean_price_paid','Year', 'X', 'Y'",0.7635805160696328,295.3245708901971,181019.75823901425,0.7635318419940529
