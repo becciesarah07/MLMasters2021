@@ -1,0 +1,5 @@
+,Model,max_depth,Feature Variables,Explained Variance Score,MAE,MSE,R2_score
+GradientBoosting: max_depth=5.00,GradientBoosting,5,"['Mean_price_paid', 'Year', 'X', 'Y']",0.6029078258539531,388.22468656412536,303979.7716115871,0.6029077855183642
+GradientBoosting: max_depth=10.00,GradientBoosting,10,"['Mean_price_paid', 'Year', 'X', 'Y']",0.7477220225520979,314.2402215108074,193128.17828963546,0.7477144759032635
+GradientBoosting: max_depth=15.00,GradientBoosting,15,"['Mean_price_paid', 'Year', 'X', 'Y']",0.8162813828565634,262.5504217556177,140663.86106293896,0.8162492070084494
+GradientBoosting: max_depth=20.00,GradientBoosting,20,"['Mean_price_paid', 'Year', 'X', 'Y']",0.7805996512314102,273.1644817174761,167995.89632804182,0.7805450601431184

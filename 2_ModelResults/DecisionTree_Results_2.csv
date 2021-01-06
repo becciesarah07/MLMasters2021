@@ -1,0 +1,13 @@
+,Model,max_depth,Feature Variables,Explained Variance Score,MAE,MSE,R2_score
+DecisionTree: max_depth=5.00,DecisionTree,5,"['Mean_price_paid', 'Year', 'X', 'Y']",0.36675461748724314,481.730380662976,484759.2014143736,0.3667535712674197
+DecisionTree: max_depth=7.00,DecisionTree,7,"['Mean_price_paid', 'Year', 'X', 'Y']",0.44069389145390503,454.79031877934545,428158.0773043341,0.4406922600026828
+DecisionTree: max_depth=10.00,DecisionTree,10,"['Mean_price_paid', 'Year', 'X', 'Y']",0.5411307537131691,412.4893911967011,351272.67790546606,0.541128527017227
+DecisionTree: max_depth=12.00,DecisionTree,12,"['Mean_price_paid', 'Year', 'X', 'Y']",0.5864320731998378,388.89517466979123,316597.7764101121,0.5864247431066196
+DecisionTree: max_depth=13.00,DecisionTree,13,"['Mean_price_paid', 'Year', 'X', 'Y']",0.6039183464363054,379.04411327139525,303212.53907796677,0.6039100300564875
+DecisionTree: max_depth=14.00,DecisionTree,14,"['Mean_price_paid', 'Year', 'X', 'Y']",0.6168032227891493,370.01652661821083,293355.13582804817,0.6167868674354897
+DecisionTree: max_depth=15.00,DecisionTree,15,"['Mean_price_paid', 'Year', 'X', 'Y']",0.6259439915437486,363.3985090609344,286369.0654980871,0.6259128501386853
+DecisionTree: max_depth=16.00,DecisionTree,16,"['Mean_price_paid', 'Year', 'X', 'Y']",0.6255432566446397,359.64015625241603,286683.14740278735,0.6255025613934677
+DecisionTree: max_depth=17.00,DecisionTree,17,"['Mean_price_paid', 'Year', 'X', 'Y']",0.6213955087103096,357.7535107138231,289865.787806175,0.6213450422303348
+DecisionTree: max_depth=18.00,DecisionTree,18,"['Mean_price_paid', 'Year', 'X', 'Y']",0.6129342560263561,357.3186022778673,296343.5818656712,0.6128830265692136
+DecisionTree: max_depth=19.00,DecisionTree,19,"['Mean_price_paid', 'Year', 'X', 'Y']",0.606451685608541,358.48331499257574,301314.47058592254,0.6063894983998834
+DecisionTree: max_depth=20.00,DecisionTree,20,"['Mean_price_paid', 'Year', 'X', 'Y']",0.5920315321352145,361.82291620388514,312344.6644476808,0.5919806313772318
